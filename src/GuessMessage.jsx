@@ -23,5 +23,4 @@ function GuessMessage({ guess, numberToGuess, numberOfGuesses }) {
     </div>
   );
 }
-
 export default GuessMessage;
